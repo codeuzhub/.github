@@ -25,7 +25,8 @@
 
 ### Pages
 
-- **SOLID Principles in Python** — [EN](https://codeuzhub.github.io/solid-python/) | [UZ](https://codeuzhub.github.io/solid-python/uz/)
+- **SOLID Principles in Python** — [en-webpage](https://codeuzhub.github.io/solid-python/) | [uz-webpage](https://codeuzhub.github.io/solid-python/uz/)
+- **Freely Available ML Books** — [webpage](https://codeuzhub.github.io/ml-books/)
 
 ---
 
